@@ -1,21 +1,17 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Programming: Variables",
+    "slug": "programming-variables",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "programming",
+        "pseudocode"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
+        "python-variables"
     ]
 }
